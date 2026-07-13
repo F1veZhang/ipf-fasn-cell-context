@@ -4,7 +4,8 @@ This repository contains the executable analysis code, public-input manifests,
 software environment records, and figure source data for release `v1.3.1`
 (`2026-07-12`). The immutable full research compendium, including results,
 figures, manuscript, supplement, and release manifest, is distributed through
-Zenodo. Add the Zenodo DOI badge and record URL here after publication.
+Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21339839.svg)](https://doi.org/10.5281/zenodo.21339839)
+[![GitHub release](https://img.shields.io/badge/release-v1.3.1-blue.svg)](https://github.com/F1veZhang/ipf-fasn-cell-context/releases/tag/v1.3.1)
 
 **Repository preparation and code curation:** Jianyi Zhang
 
@@ -80,14 +81,6 @@ The GSE136831 integrity gate must report:
   `8edf10c5f40359a14c6dc96427e866729c9f51a551699d4ce7d2501d53c87d8a`;
 - exact total-UMI matches: `964/964`, maximum absolute delta `0`.
 
-## Citation and archival copy
-
-Use the repository's **Cite this repository** control, populated from
-`CITATION.cff`. For the complete immutable research compendium, cite the Zenodo
-record for `IPF_Source_Reanalysis_v1.3.1_20260712.zip`. After Zenodo publication,
-replace this paragraph with the version DOI and add the concept DOI for the
-project-level citation.
-
 ## Interpretation boundaries
 
 - FASN was explicitly selected as a contextual case, not as a unique
@@ -97,3 +90,21 @@ project-level citation.
   externally replicated.
 - Marker-score and NNLS estimates are sensitivity analyses, not measured cell
   fractions or causal mediation estimates.
+
+## Persistent archive
+
+- Development repository: https://github.com/F1veZhang/ipf-fasn-cell-context
+- Frozen release: https://doi.org/10.5281/zenodo.21339839
+- Zenodo record: https://zenodo.org/records/21339839
+- Release version: v1.3.1
+
+## Funding
+
+This work was supported by:
+
+- Jiangxi Provincial Natural Science Foundation, Grant No. 20262BAC240324
+- Jiangxi Branch of National Clinical Medical Research Center for Infectious Diseases, Grant No. 20221ZDG020069
+
+The funders had no role in the study design, data collection, data analysis, data interpretation, manuscript preparation, or the decision to submit the work for publication.
+
+Analysis code is licensed under the MIT License. Derived figures, tables, and documentation are licensed under CC BY 4.0. Original GEO data remain governed by the terms of the originating repositories.
