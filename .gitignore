@@ -1,0 +1,32 @@
+# Downloaded public inputs and generated analysis outputs
+raw_data/
+results/
+derived_matrices/
+figures/
+Figures_*/
+
+# Generated publication files and release archives
+*.docx
+*.xlsx
+*.pdf
+*.png
+*.tif
+*.tiff
+*.zip
+
+# Language and build caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.Rhistory
+.RData
+.Rproj.user/
+node_modules/
+bin/
+obj/
+
+# Local audit and editor files
+.inspect.ndjson
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,7 @@
+gene,ENTREZID,AT2_log2FC,AT2_P,AT2_FDR,Hallmark_fatty_acid_leading_edge,Reactome_fatty_acid_leading_edge,measured_in_three_cohorts,whole_lung_meta_g,whole_lung_meta_P,whole_lung_meta_FDR,whole_lung_meta_rank,focal_rank_among_rule_positive_genes,focal_interpretation
+FASN,2194,-3.5116543927322,0.00175100879917877,0.0332457578877199,TRUE,TRUE,TRUE,-1.0456481470138,0.0508106816952861,0.818072946528172,825,1,Focal contextual case: smallest nominal whole-lung meta-analysis P among rule-positive genes and direct role in de novo fatty-acid synthesis
+ACADL,33,-3.49116953320205,8.02331507801258e-05,0.0110961902751997,TRUE,TRUE,TRUE,-1.12507219346362,0.132064579674124,0.818072946528172,1737,2,Rule-positive gene reported for selection transparency
+ACSL4,2182,-2.30592401858135,0.00431910112726488,0.0494324551873503,TRUE,TRUE,TRUE,0.604113872384431,0.628949154471003,0.834054959109891,10279,3,Rule-positive gene reported for selection transparency
+HSD17B4,3295,-2.07147325500796,0.000212763912384899,0.0148080397090741,TRUE,TRUE,TRUE,0.680604765198764,0.729285719133703,0.872684596491453,11392,4,Rule-positive gene reported for selection transparency
+ACSM3,6296,-1.95877446715333,0.00238283316680652,0.0376450049648153,TRUE,TRUE,TRUE,-0.228562528422347,0.796958085873433,0.90322874067291,12028,5,Rule-positive gene reported for selection transparency
+ACSL1,2180,-2.64225768657492,0.000811387933797651,0.0235841705249201,TRUE,TRUE,TRUE,-0.222335942049815,0.886740479978909,0.944304837362119,12801,6,Rule-positive gene reported for selection transparency

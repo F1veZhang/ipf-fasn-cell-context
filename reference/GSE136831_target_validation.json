@@ -1,0 +1,5 @@
+{
+  "canonical_sha256": "8edf10c5f40359a14c6dc96427e866729c9f51a551699d4ce7d2501d53c87d8a",
+  "entries": 2363040,
+  "description": "Expected canonical hash and sparse-coordinate count for the precomputed 62-gene verification panel reconstructed from the complete GSE136831 raw matrix."
+}

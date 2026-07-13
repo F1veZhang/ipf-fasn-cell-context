@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this research compendium, please cite the archived release."
+title: "Cell-Resolved Reanalysis Reframes a Concordant Whole-Lung FASN Signal in Idiopathic Pulmonary Fibrosis"
+type: software
+version: 1.3.1
+date-released: 2026-07-12
+authors:
+  - family-names: Zhang
+    given-names: Jianyi
+keywords:
+  - idiopathic pulmonary fibrosis
+  - FASN
+  - donor pseudobulk
+  - transcriptomic meta-analysis
+  - tissue composition
+preferred-citation:
+  type: article
+  title: "Cell-Resolved Reanalysis Reframes a Concordant Whole-Lung FASN Signal in Idiopathic Pulmonary Fibrosis"
+  year: 2026
+  authors:
+    - family-names: Chen
+      given-names: Sutong
+    - family-names: Fang
+      given-names: Yuhua
+    - family-names: Kong
+      given-names: Xinyi
+    - family-names: Wu
+      given-names: Juan
+    - family-names: Yang
+      given-names: Liu
+    - family-names: Xie
+      given-names: Wei
+    - family-names: Wan
+      given-names: Zanyan
+    - family-names: Li
+      given-names: Jie

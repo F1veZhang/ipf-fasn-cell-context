@@ -1,0 +1,6 @@
+dataset,input,role
+GSE245965,raw counts,purified AT2 discovery
+GSE150910,raw counts,whole-lung synthesis
+GSE110147,raw CEL,whole-lung synthesis
+GSE24206,raw CEL,whole-lung synthesis
+GSE136831,full raw UMI matrix,full-transcriptome donor pseudobulk
